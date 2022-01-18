@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Piotr Pośpiech </h1>
 
-<!--
-**piotrpospiech/piotrpospiech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Engineer | Blockchain Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🔭 I’m currently working on <a href='https://github.com/vazco/meteor-universe-i18n'>Universe i18n</a>
+  <br />
+  ⚡ Technologies I like the most: <b>React</b> and <b>Meteor</b>
+  <br />
+  🗺️ Wrocław, Poland
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=piotrpospiech&theme=dark" alt="Piotr Pośpiech Streak Stats"  /></div>
