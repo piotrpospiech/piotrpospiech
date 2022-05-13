@@ -7,7 +7,7 @@
   <br />
   ⚡ Technologies I like the most: <b>React</b> and <b>Meteor</b>
   <br />
-  🔥 In my free time, I'm working on <b>blockchain</b> / <b>cryptocurrencies</b> related side projects. Soon it will go public!
+  🔥 In my free time, I'm working on <b>blockchain</b> / <b>cryptocurrencies</b> related side projects. 
 </p>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=piotrpospiech&theme=dark" alt="Piotr Pośpiech Streak Stats"  /></div>
