@@ -1,6 +1,4 @@
-I'm **Piotr Pośpiech**, a **Full-Stack Tech Lead Developer** from <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="14"> **Wrocław, Poland**.
-
-### Things I work with
+# Things I work with
 
 ![Static Badge](https://img.shields.io/badge/react-499cc6?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/next-000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -35,7 +33,7 @@ I'm **Piotr Pośpiech**, a **Full-Stack Tech Lead Developer** from <img src="htt
 ![Static Badge](https://img.shields.io/badge/mingo-4474f2?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
-### Open Source projects
+# Open Source projects
 
 | Project | Stars | Issues | Pull Requests | Version |
 | ------- | ----- | ------ | ------------- | ------- |
