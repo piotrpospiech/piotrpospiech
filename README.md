@@ -29,9 +29,12 @@
 ![Static Badge](https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mingo-4474f2?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/supermaven-4474f2?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/windsurf-22BAA7?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 # Open Source projects
 
