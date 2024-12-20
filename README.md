@@ -3,7 +3,9 @@
 ![Static Badge](https://img.shields.io/badge/react-499cc6?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/next-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/meteor-DE4F4F?style=for-the-badge&logo=meteor&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/postgres-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
